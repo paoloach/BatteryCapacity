@@ -1,3 +1,23 @@
+*.sch~
+*.sym
+*.lst
+*.p1
+*.p1.d
+*.pre
+*.cmf
+*.cof
+*.hxl
+*.map
+*.mum
+*.rlf
+*.sdb
+
+
+*.DBK
+*.DSN
+*.PWI
+/schemi
+
 # Object files
 *.o
 *.ko
@@ -30,3 +50,10 @@
 
 # Debug files
 *.dSYM/
+/MPLAB/build/test/
+/MPLAB/dist/test/
+/MPLAB/build/TEST/
+/MPLAB/dist/TEST/
+/MPLAB/tests/RS232/FornoTest.X/nbproject/private/
+/MPLAB/tests/RS232/FornoTest.X/build/test/
+/MPLAB/tests/RS232/FornoTest.X/dist/test/
